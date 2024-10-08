@@ -23,5 +23,5 @@ jobs:
         continue-on-error: true
       - name: Run tests
         run: |
-          python -m unittest TEST1.py
+          python -m unittest TEXT1.py
       
